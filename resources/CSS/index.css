@@ -21,5 +21,7 @@ h4,h6 {
 #early_years {
     background-image: url("C:\Users\gregh\OneDrive\Documents\Coding_Computer\Projects\GregWebpage_New\resources\Images\1YrOldGregWithPaternalGrandfatherAndPaternalGrandmother_resize.jpg");
     height: 250 px;
+    width: 500 px;
+    background-color: gray;
     color: red;
 }
