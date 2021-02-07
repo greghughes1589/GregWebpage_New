@@ -16,7 +16,7 @@ h4,h6 {
     color: navy;
 
 }
-title {
+#introduction{
     font-family:cursive;
     font-size:large;
     color:blueviolet;
@@ -27,13 +27,4 @@ title {
     width:auto;
     font-weight: bold;
     background-color:crimson;
-}
-/* <img> {
-    margin: 20px; }
-#early_years {
-    background-image: url("C:\Users\gregh\OneDrive\Documents\Coding_Computer\Projects\GregWebpage_New\resources\Images\1YrOldGregWithPaternalGrandfatherAndPaternalGrandmother_resize.jpg");
-    height: 250 px;
-    width: 500 px;
-    background-color: gray;
-    color: red;
 }
