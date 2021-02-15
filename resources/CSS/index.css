@@ -1,6 +1,6 @@
 * {
-    text-align:center;
-    background-color: lightgray
+    text-align:;
+    background-color:lightgray;
 }
 h1 {
     color: navy;
@@ -17,14 +17,15 @@ h4,h6 {
 
 }
 #introduction{
+    text-align: center;
     font-family:cursive;
     font-size:large;
     color:blueviolet;
-    border:chartreuse;
+    border:chartreuse !important;
     border-width: 20px;
     margin: 20px;
-    height:auto;
-    width:auto;
+    height:200px;
+    width:800px;
     font-weight: bold;
     background-color:crimson;
 }
