@@ -16,16 +16,32 @@ h4,h6 {
     color: navy;
 
 }
-#introduction{
+h1 {
+    padding: 10px;
+    border: 5px solid chartreuse;
+    margin: 20px;
     text-align: center;
     font-family:cursive;
-    font-size:large;
     color:blueviolet;
-    border:chartreuse !important;
-    border-width: 20px;
-    margin: 20px;
-    height:200px;
-    width:800px;
+    height:100px;
+    width:400px;
     font-weight: bold;
-    background-color:crimson;
+    background-color:lightblue;
+}
+#biogrphical_info {
+    padding: 10px;
+    border: 5px solid blue;
+    margin: 20px;
+    text-align: center;
+    font-family:cursive;
+    color: blueviolet;
+    width: 400px;
+    background-color: lightblue;
+    background-image: url(../Images/7thGradeGregInJacket_resize.jpg);
+}
+#photo_jacket {
+    padding: 10px;
+    border: 5px solid black;
+    margin: 20px;
+    height: 150px;
 }
