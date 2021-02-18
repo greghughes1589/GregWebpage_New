@@ -1,13 +1,11 @@
 * {
-    text-align:;
+    text-align:center;
     background-color:lightgray;
 }
 h1 {
-    color: navy;
     text-align: center;
 }
 h2 {
-    color:navy;
 }
 li {
     color:navy;
@@ -18,30 +16,33 @@ h4,h6 {
 }
 h1 {
     padding: 10px;
-    border: 5px solid chartreuse;
+    border: 10px solid navy;
     margin: 20px;
     text-align: center;
     font-family:cursive;
     color:blueviolet;
-    height:100px;
     width:400px;
     font-weight: bold;
     background-color:lightblue;
 }
-#biogrphical_info {
+#biogrphical_info h2 {
     padding: 10px;
-    border: 5px solid blue;
+    border: 10px solid navy;
     margin: 20px;
     text-align: center;
     font-family:cursive;
-    color: blueviolet;
+    color: blue;
     width: 400px;
     background-color: lightblue;
-    background-image: url(../Images/7thGradeGregInJacket_resize.jpg);
 }
-#photo_jacket {
+.photo {
     padding: 10px;
     border: 5px solid black;
-    margin: 20px;
+    margin: 5px;
     height: 150px;
+}
+.Bio_Category {
+    color: rgb(28, 28, 196);
+    font-size: 20px;
+    font-family: cursive;
 }
