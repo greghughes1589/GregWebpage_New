@@ -24,3 +24,8 @@ td {
 th {
     align-content: center;
 }
+table, th, td {
+    padding: 10px;
+    border: 1px sodid black;
+    border-collapse: collapse;
+}
